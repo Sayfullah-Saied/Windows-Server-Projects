@@ -8,7 +8,9 @@ NOTE:
 <img width="380" height="502" alt="2" src="https://github.com/user-attachments/assets/6f1d3202-41be-47ee-851e-ee7ca62c647e" />
 <hr><br>
 2#On the domain controller, we will create three folders for each group. Each group will only have access to its own folder and will not be able to access or modify other group folders.<br>
-<img width="458" height="371" alt="3" src="https://github.com/user-attachments/assets/d5add893-a6c8-4d31-9f7a-e22aae1687c6" />
+<img width="458" height="371" alt="3" src="https://github.com/user-attachments/assets/d5add893-a6c8-4d31-9f7a-e22aae1687c6" /><br><br>
+Right-click the folder and select Properties → Sharing → Advanced Sharing → Permissions. Then add the group that belongs to that folder and remove any unnecessary permissions or groups.
+<img width="454" height="487" alt="11" src="https://github.com/user-attachments/assets/388ecdcd-b249-4002-bc85-cbbc350aefad" />
 <hr><br>
 3# From the client machine let’s sign in with Khaled from the Sales Group <br>
 <img width="413" height="473" alt="4" src="https://github.com/user-attachments/assets/7eaaacff-192a-4abf-9203-75899ad3ce5c" /><br><br>
