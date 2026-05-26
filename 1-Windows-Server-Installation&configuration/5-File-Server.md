@@ -14,6 +14,6 @@ NOTE:
 <img width="413" height="473" alt="4" src="https://github.com/user-attachments/assets/7eaaacff-192a-4abf-9203-75899ad3ce5c" /><br><br>
 go to share folders hit Windows+r and write "\\DC1"
 <img width="875" height="676" alt="8" src="https://github.com/user-attachments/assets/f7d6d5ce-43b9-4550-ac48-74c649e8f458" /><br>
-If we open the Sales-Data folder, it will open successfully. However, if we try to access the IT or HR folders, we will receive an Access Denied message.
+If we open the Sales-Data folder, it will open successfully. However, if we try to access the IT or HR folders, we will receive an Access Denied message.<br>
 <img width="752" height="506" alt="6" src="https://github.com/user-attachments/assets/79cb0918-c681-4084-b639-c35b0f757984" />
 <img width="848" height="674" alt="10" src="https://github.com/user-attachments/assets/954afc1d-aea0-4a88-9ed7-a9b4672c9172" />
