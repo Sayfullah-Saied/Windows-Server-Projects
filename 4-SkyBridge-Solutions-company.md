@@ -1,7 +1,7 @@
 <h1>SkyBridge Solutions – IT Infrastructure Overview</h1>
 <h3>SkyBridge Solutions is a mid‑sized IT consulting and services company specializing in cloud integration, infrastructure support, and digital transformation. With a workforce of 50 employees across multiple departments.</h3>
 As the System Administrator, you are responsible for designing, deploying, and maintaining the core IT infrastructure. Your role includes managing identity services, network configuration, server deployment, security policies, and ensuring high availability of all critical systems across the organization.
-<br>
+<br><br>
 ## 1. Company Departments & Employees
 
 | # | Department | Users | Roles (Summary) |
