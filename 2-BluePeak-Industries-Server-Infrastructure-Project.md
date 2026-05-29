@@ -3,60 +3,16 @@
 BluePeak Industries is a leading company in IT services and IT consulting.  
 As the IT Department, our responsibility is to design, configure, and maintain the technical infrastructure that supports all business units.
 
----
+## Company Departments Overview
 
-## Company structure
+| Department | Users | Roles |
+|-----------|--------|--------|
+| **IT Department** | 3 | IT Manager, System Administrator, Helpdesk Technician |
+| **Human Resources (HR)** | 2 | HR Manager, HR Assistant |
+| **Finance Department** | 3 | Finance Manager, Accountant, Payroll Officer |
+| **Sales Department** | 4 | Sales Manager, Sales Rep 1, Sales Rep 2, Sales Support |
+| **Management** | 2 | CEO, Executive Assistant |
 
-### 1. IT Department
-
-Handles servers, support, and security.
-
-- **Users:** 3  
-- **Roles:**
-  - **IT Manager**
-  - **System Administrator**
-  - **Helpdesk Technician**
-
-### 2. Human Resources (HR)
-
-Manages employees and internal policies.
-
-- **Users:** 2  
-- **Roles:**
-  - **HR Manager**
-  - **HR Assistant**
-
-### 3. Finance Department
-
-Handles money, payroll, and budgeting.
-
-- **Users:** 3  
-- **Roles:**
-  - **Finance Manager**
-  - **Accountant**
-  - **Payroll Officer**
-
-### 4. Sales Department
-
-Handles clients, deals, and communication.
-
-- **Users:** 4  
-- **Roles:**
-  - **Sales Manager**
-  - **Sales Rep 1**
-  - **Sales Rep 2**
-  - **Sales Support**
-
-### 5. Management
-
-Top‑level leadership.
-
-- **Users:** 2  
-- **Roles:**
-  - **CEO**
-  - **Executive Assistant**
-
----
 
 ## Department summary
 
