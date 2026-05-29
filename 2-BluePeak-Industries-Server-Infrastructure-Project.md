@@ -12,6 +12,7 @@ As the IT Department, our responsibility is to design, configure, and maintain t
 | **Finance Department** | 3 | Finance Manager, Accountant, Payroll Officer |
 | **Sales Department** | 4 | Sales Manager, Sales Rep 1, Sales Rep 2, Sales Support |
 | **Management** | 2 | CEO, Executive Assistant |
+| **Total** | 14   |
 
 
 
