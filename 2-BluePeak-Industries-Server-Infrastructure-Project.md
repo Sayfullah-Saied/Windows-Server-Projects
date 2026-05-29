@@ -14,17 +14,7 @@ As the IT Department, our responsibility is to design, configure, and maintain t
 | **Management** | 2 | CEO, Executive Assistant |
 
 
-## Department summary
 
-| Department        | Users | Key Responsibilities                      |
-|-------------------|-------|-------------------------------------------|
-| IT                | 3     | Servers, support, security                |
-| Human Resources   | 2     | Employees, policies                       |
-| Finance           | 3     | Money, payroll, budgeting                 |
-| Sales             | 4     | Clients, deals, communication             |
-| Management        | 2     | Strategic leadership, executive decisions |
-
----
 
 ## Notes for IT configuration
 
