@@ -15,16 +15,17 @@ As the IT Department, our responsibility is to design, configure, and maintain t
 
 
 
+### Core Servers Deployed
+- **Active Directory Domain Controller**  
+  Provides centralized authentication, DNS, and Group Policy management.
 
-## Notes for IT configuration
+- **DHCP Server**  
+  Configured with dedicated IP pools for each department, aligned with their VLANs for proper network segmentation.
 
-- **User accounts:** Create separate accounts per role, grouped by department.
-- **Access control:**  
-  - HR and Finance require stricter data access policies.  
-  - Sales needs access to CRM and communication tools.  
-  - Management needs high‑level access to reports and dashboards.
-- **Security:**  
-  - Enforce strong authentication and role‑based access control (RBAC).  
-  - Regular backups for Finance and HR data.  
-  - Centralized logging and monitoring managed by IT.
+- **File Server**  
+  Hosts departmental shared folders with NTFS permissions based on security groups and roles.
 
+- **Group Policy Management**   
+Department‑specific GPOs control software access, security settings, USB policies, drive mappings, and admin rights.
+
+<b>This configuration ensures a secure, scalable, and well‑organized infrastructure that supports all business operations efficiently.</b>
