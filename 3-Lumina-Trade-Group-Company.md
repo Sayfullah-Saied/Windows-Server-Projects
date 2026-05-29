@@ -32,5 +32,5 @@ Lumina Trade Group is a medium-sized trading company specializing in the import,
 * DNS and DHCP Services
 * File and Print Services
 * Group Policy Management
-* User Authentication and Access Control
+* IIS web server
 * Data Backup and Recovery
