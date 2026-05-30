@@ -8,19 +8,19 @@ This zone will be non‑AD‑integrated and configured to disable dynamic update
 
 3. Adding Static DNS Records:<br>
 We will manually create the required DNS records:<br>
+A Record for the Domain Controller (DC) <br> 
+Add the DC’s IP address as a static host (A) record.<br>
 
-A Record for the Domain Controller (DC)  
-Add the DC’s IP address as a static host (A) record.
+A Record for the Client Machine<br>
+Add the client device’s IP address as a static host (A) record.<br>
 
-A Record for the Client Machine  
-Add the client device’s IP address as a static host (A) record.
-
-While creating each A record, ensure the “Create associated PTR record” option is selected.
+While creating each A record, ensure the “Create associated PTR record” option is selected.<br>
 This automatically generates the corresponding reverse lookup (PTR) entries and creates the reverse lookup zone if it does not already exist.<br>
 
 4. Configuring DNS Forwarders:<br>
-To improve external name resolution performance and reliability, configure DNS forwarders:
-Add Google Public DNS servers:
-8.8.8.8
-8.8.4.4
+To improve external name resolution performance and reliability, configure DNS forwarders:<br>
+Add Google Public DNS servers:<br>
+8.8.8.8<br>
+8.8.4.4<br>
+
 These forwarders will handle queries for domains not hosted internally.
