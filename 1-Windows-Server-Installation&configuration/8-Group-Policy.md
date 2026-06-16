@@ -3,7 +3,7 @@ Group Policy is a vast topic, offering numerous options to control and manage us
 In this guide, we'll configure several Group Policy Objects (GPOs) to apply these controls within a Windows domain environment.<br><br><hr>
 
 <h3>Open group policy console</h3>
-We will setup 2 user policy and 2 computer policy and we will change the background for users in the domain
+We will setup 2 user policy and 2 computer policy and we will change the background for users in the domain.<br>
 The policies we will configure:<br>
 1-Prevent Access to Control Panel<br>
 2-Remove Run Command from Start Menu<br>
