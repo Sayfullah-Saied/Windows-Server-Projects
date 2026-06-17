@@ -32,3 +32,7 @@ Department‑specific GPOs control software access, security settings, USB polic
 <b>This configuration ensures a secure, scalable, and well‑organized infrastructure that supports all business operations efficiently.</b><hr>
 
 <h1>Implementation</h1>
+
+
+
+<h1>this structure is unavailable for cople of days please come back tomorrow </h1>
