@@ -29,4 +29,6 @@ As the IT Department, our responsibility is to design, configure, and maintain t
 - **Group Policy Management**   
 Department‑specific GPOs control software access, security settings, USB policies, drive mappings, and admin rights.
 
-<b>This configuration ensures a secure, scalable, and well‑organized infrastructure that supports all business operations efficiently.</b>
+<b>This configuration ensures a secure, scalable, and well‑organized infrastructure that supports all business operations efficiently.</b><hr>
+
+<h1>Implementation</h1>
