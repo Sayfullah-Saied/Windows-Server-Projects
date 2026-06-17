@@ -37,3 +37,13 @@ Finally let's link all the policies to the domain:<br>
 <img width="158" height="140" alt="10" src="https://github.com/user-attachments/assets/5d54414e-55e2-4f72-8120-c676b69ed9cb" /><br>
 
 <h3>Testing policies</h3>
+<p>we will sign in with the user khaled </p>
+<img width="476" height="379" alt="11" src="https://github.com/user-attachments/assets/28a614da-55b7-4285-bdef-af23e815a017" /><br>
+we see that the background policy has been applied successfully to the user and if we try to open RUN we get the following error<br>
+<img width="718" height="527" alt="12" src="https://github.com/user-attachments/assets/78d6ee8f-7dcd-4f0e-9d25-c98540b01173" /><br>
+the shared drive also applied successfully<br>
+<img width="672" height="420" alt="13" src="https://github.com/user-attachments/assets/72f700a2-b982-4e5e-b830-97ab4d076f80" /><br>
+if we try to open control panel we get the followig error<br>
+<img width="517" height="510" alt="14" src="https://github.com/user-attachments/assets/1cdbd7e0-d709-40ae-914a-43c92edbbd96" />
+<img width="581" height="308" alt="15" src="https://github.com/user-attachments/assets/9728ef70-9d7d-44e2-b770-bb1f019d8ac6" />
+
